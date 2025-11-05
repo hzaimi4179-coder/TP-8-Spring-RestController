@@ -27,7 +27,8 @@
 
 ### Requête GET - Liste des comptes avec en-tête `Accept: application/xml`
 
-<img width="959" height="539" alt="Screenshot 2025-11-05 012558" src="https://github.com/user-attachments/assets/01e9c693-a84b-4c8f-b7a1-0ff4893b00f5" />
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/ff328c8a-f16a-4767-bbfd-cc4952d1943d" />
+
 
 
 
